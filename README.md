@@ -23,6 +23,36 @@
 
 ---
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/aymenbrahimdjelloul/HashRipper/blob/main/images/screenshot_1.PNG" alt="Main Interface" width="400px"/>
+        <br>
+        <em>HashRipper Home</em>
+      </td>
+      <td align="center">
+        <img src="https://github.com/aymenbrahimdjelloul/HashRipper/blob/main/images/screenshot_2.PNG" alt="Crack Hash" width="400px"/>
+        <br>
+        <em>Crack Hash</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/aymenbrahimdjelloul/HashRipper/blob/main/images/screenshot_3.PNG" alt="HashRipper settings" width="400px"/>
+        <br>
+        <em>HashRipper Settings</em>
+      </td>
+      <td align="center">
+        <img src="https://github.com/aymenbrahimdjelloul/HashRipper/blob/main/images/screenshot_4.PNG" alt="HashRipper About" width="400px"/>
+        <br>
+        <em>HashRipper About</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ## Simple Usage Example:
 
 ~~~python
