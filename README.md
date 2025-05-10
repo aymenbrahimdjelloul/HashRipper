@@ -99,12 +99,15 @@ Special thanks to:
 - **Open Source Contributors** – for generously sharing your time and skills.
   
 Thank you for using **HashRipper** – Stay safe and crack responsibly!
+
 ---
+
 ### License : 
+
 ~~~
 MIT License
 
-Copyright (c) 2023 Aymen Brahim Djelloul
+Copyright (c) 2025 Aymen Brahim Djelloul
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
