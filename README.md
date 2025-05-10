@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github.com/aymenbrahimdjelloul/HashRipper/blob/main/images/icon.ico" alt="HashRipper Logo" width="150" height="150">
+  <img src="https://github.com/aymenbrahimdjelloul/HashRipper/blob/main/images/icon.png" alt="HashRipper Logo" width="150" height="150">
 </div>
 
 <a href="https://github.com/aymenbrahimdjelloul/HashRipper/releases/latest">
