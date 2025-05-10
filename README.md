@@ -3,7 +3,7 @@
 </div>
 
 <a href="https://github.com/aymenbrahimdjelloul/HashRipper/releases/latest">
-    <img src="https://img.shields.io/github/v/release/aymenbrahimdjelloul/MalwareScan?color=green&label=Download&style=for-the-badge" alt="Download Latest Release">
+    <img src="https://img.shields.io/github/v/release/aymenbrahimdjelloul/HashRipper?color=green&label=Download&style=for-the-badge" alt="Download Latest Release">
   </a>
 
 # **HashRipper**
