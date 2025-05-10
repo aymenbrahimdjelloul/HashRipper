@@ -1,3 +1,11 @@
+<div align="left">
+  <img src="https://github.com/aymenbrahimdjelloul/HashRipper/blob/main/images/icon.ico" alt="HashRipper Logo" width="150" height="150">
+</div>
+
+<a href="https://github.com/aymenbrahimdjelloul/HashRipper/releases/latest">
+    <img src="https://img.shields.io/github/v/release/aymenbrahimdjelloul/MalwareScan?color=green&label=Download&style=for-the-badge" alt="Download Latest Release">
+  </a>
+
 # **HashRipper**
 #### A Pure-Python Hash Cracking Tool
 
