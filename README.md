@@ -42,10 +42,15 @@ print(r.crack(_hash))
 ~~~
 #### Output :
 ~~~
+
 MD5 hash of word 'test' : 098f6bcd4621d373cade4e832627b4f6
+
 [*] - HashRipper - V 1.1 initialized with 1.65M words
+
 [*] - Detected hash method: md5 .
+
 {'password': 'test', 'hash_method': 'md5', 'time_taken': 4.3865, 'successful': True, 'error': None}
+
 ~~~
 
 
