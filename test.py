@@ -2,8 +2,6 @@
 # This file is test of HashRipper
 import hashripper
 import hashlib
-from time import perf_counter
-import re
 
 # Get a hexdigest of 'test' word using MD5 function
 _word: bytes = b"test"
